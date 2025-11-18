@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hi, I'm Océane! 🌸</h1>
+<h1 align="center">🌸 Hello World 🌸</h1>
 <p align="center">
   <strong>Software Engineering Student</strong><br/>
 </p>
