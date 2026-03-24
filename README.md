@@ -35,7 +35,7 @@
 <p>
    <strong>GitHub:</strong> <a href="https://github.com/oceven">github.com/oceven</a><br/>
    <strong>Email:</strong> oceane.rktm@gmail.com<br/>
-   <strong>LinkedIn:</strong> <a href="[https://github.com/oceven](https://www.linkedin.com/in/oceanesoafara/)">linkedin.com/in/oceanesoafara/</a><br/>
+   <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/oceanesoafara/">linkedin.com/in/oceanesoafara/</a><br/>
 </p>
 
 <p align="center">
